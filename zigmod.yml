@@ -1,0 +1,6 @@
+id: qh85pt7099a75b4u3api676t4lytmfnw6ow8gvskckbzz6d5
+name: mmCuckoo
+main: src/cuckoo.zig
+license: MPL-2.0
+description: Zig implementation of cuckoo search
+dependencies:
